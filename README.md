@@ -8,3 +8,4 @@ Golang snippets and practices.
 - [ ] [Cuckoo Filter](https://en.wikipedia.org/wiki/Cuckoo_filter)
 - [ ] [Bit Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [ ] [Cache Policies](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+- [ ] [Double Buffering](https://en.wikipedia.org/wiki/Double_buffering)
