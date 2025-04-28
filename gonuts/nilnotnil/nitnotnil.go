@@ -1,5 +1,5 @@
 //
-// Package nilnotnil demonstrates that nil can have a underlying type.
+// Package nilnotnil demonstrates that nil can have an underlying type.
 //
 package nilnotnil
 
